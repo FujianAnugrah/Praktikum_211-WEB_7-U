@@ -81,4 +81,4 @@
     </div>
     <!-- /.content -->
 
-    <?php include "partials/scripts.php"?>
+    <?php include "scripts.php"?>
